@@ -4,7 +4,11 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, Mom");
+console.log(2+3);
+console.log("hello,world")
+console.log('"nevermore"');
+console.log("hello i'm" + (19+3));
 
 /*  
 Next, PLAY! 
